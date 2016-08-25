@@ -10,6 +10,6 @@ public class secondlassTest {
   
   @Test
   public void f11() {
-	  System.out.println("New method just for checkin");
+	  System.out.println("New method just for checkin3");
   }
 }
