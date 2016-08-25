@@ -7,4 +7,9 @@ public class secondlassTest {
   public void f() {
 	  System.out.println("Secondclass");
   }
+  
+  @Test
+  public void f11() {
+	  System.out.println("New method just for checkin");
+  }
 }
